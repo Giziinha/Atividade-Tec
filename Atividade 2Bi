@@ -1,0 +1,19 @@
+Nome: Giovanna dos Santos Pontes
+Série: 2A
+
+Qual a diferença entre as tag <h2> e <h4>?
+R: Diferença entre <h2> e <h4>:
+<h2> é um cabeçalho de segundo nível.
+<h4> é um cabeçalho de quarto nível.
+<h2> é mais importante e visualmente maior que <h4>.
+        
+Existe algum problema em: <p><center>texto</p><center>?
+R: Problemas com <p><center>texto</p><center>:
+Aninhamento incorreto de tags:
+Correto: <center><p>texto</p></center>
+Uso de tag obsoleta:
+Use CSS: <p style="text-align: center;">texto</p>
+        
+Qual a função da tag, <p>?
+R: Função da tag <p>:
+Define um parágrafo de texto em HTML.
